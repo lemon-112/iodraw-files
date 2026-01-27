@@ -501,11 +501,11 @@
         </mxCell>
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-251" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="JHrWPrDkKtPrGtXIpK2l-153">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="320" as="sourcePoint" />
+            <mxPoint x="610" y="280" as="sourcePoint" />
             <mxPoint x="590" y="270" as="targetPoint" />
             <Array as="points">
               <mxPoint x="590" y="320" />
-              <mxPoint x="540" y="270" />
+              <mxPoint x="720" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
