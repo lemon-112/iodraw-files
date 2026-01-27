@@ -478,8 +478,8 @@
             <mxRectangle width="17" height="17" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JHrWPrDkKtPrGtXIpK2l-243" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="870" y="431.81" width="98.19" height="98.19" as="geometry" />
+        <mxCell id="JHrWPrDkKtPrGtXIpK2l-243" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="881.81" y="423.5" width="98.19" height="98.19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
