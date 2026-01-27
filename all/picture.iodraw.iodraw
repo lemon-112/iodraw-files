@@ -1223,8 +1223,8 @@
             <Array as="points">
               <mxPoint x="530" y="350" />
               <mxPoint x="540" y="350" />
-              <mxPoint x="570" y="360" />
-              <mxPoint x="571" y="330" />
+              <mxPoint x="560" y="350" />
+              <mxPoint x="570" y="320" />
               <mxPoint x="570.9" y="300" />
               <mxPoint x="570.9" y="350" />
             </Array>
