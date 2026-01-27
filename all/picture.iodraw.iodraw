@@ -1262,7 +1262,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JHrWPrDkKtPrGtXIpK2l-467" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JHrWPrDkKtPrGtXIpK2l-467" value="&lt;font color=&quot;#ffffff&quot;&gt;virtual&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="517.0600000000001" y="181.56" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
