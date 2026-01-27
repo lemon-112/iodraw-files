@@ -28,7 +28,7 @@
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-6" value="&lt;b style=&quot;background-color: rgb(0, 0, 0);&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;drug_smile&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="90" y="480" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JHrWPrDkKtPrGtXIpK2l-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FFFFFF;" edge="1" parent="1">
+        <mxCell id="JHrWPrDkKtPrGtXIpK2l-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FFFFFF;" edge="1" parent="1" target="JHrWPrDkKtPrGtXIpK2l-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="139.5" y="530" as="sourcePoint" />
             <mxPoint x="139.5" y="570" as="targetPoint" />
