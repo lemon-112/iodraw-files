@@ -475,6 +475,12 @@
             <mxRectangle width="17" height="17" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JHrWPrDkKtPrGtXIpK2l-245" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1A1A1A;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JHrWPrDkKtPrGtXIpK2l-246" value="&lt;font color=&quot;#ffffff&quot;&gt;Bilinear pooling&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="445.6" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
