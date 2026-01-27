@@ -67,7 +67,7 @@
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-153" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JHrWPrDkKtPrGtXIpK2l-154" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JHrWPrDkKtPrGtXIpK2l-154" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="690" y="443.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-155" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -479,12 +479,6 @@
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-242" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="JHrWPrDkKtPrGtXIpK2l-236">
           <mxGeometry x="83" width="17" height="17" as="geometry">
             <mxRectangle width="17" height="17" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JHrWPrDkKtPrGtXIpK2l-244" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="350" as="sourcePoint" />
-            <mxPoint x="910" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
