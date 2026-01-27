@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-14" value="RDKit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="590" width="60" height="30" as="geometry" />
+          <mxGeometry x="130" y="600" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
