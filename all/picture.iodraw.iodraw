@@ -1263,7 +1263,10 @@
           <mxGeometry x="511" y="188.01" width="38" height="14.93" as="geometry" />
         </mxCell>
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-468" value="&lt;font color=&quot;#ffffff&quot;&gt;Bilinear attention map&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="908" y="448" width="122" height="30" as="geometry" />
+          <mxGeometry x="891" y="445.65" width="122" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JHrWPrDkKtPrGtXIpK2l-469" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
