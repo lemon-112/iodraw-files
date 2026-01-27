@@ -499,12 +499,13 @@
             <mxPoint x="1056" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JHrWPrDkKtPrGtXIpK2l-252" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1.004;exitY=0.546;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JHrWPrDkKtPrGtXIpK2l-25" target="JHrWPrDkKtPrGtXIpK2l-153">
+        <mxCell id="JHrWPrDkKtPrGtXIpK2l-252" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="JHrWPrDkKtPrGtXIpK2l-153">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="310" as="sourcePoint" />
+            <mxPoint x="601" y="260" as="sourcePoint" />
             <mxPoint x="670" y="260" as="targetPoint" />
             <Array as="points">
               <mxPoint x="640" y="260" />
+              <mxPoint x="700" y="260" />
               <mxPoint x="770" y="250" />
             </Array>
           </mxGeometry>
