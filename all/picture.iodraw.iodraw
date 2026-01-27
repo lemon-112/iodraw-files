@@ -482,7 +482,7 @@
           <mxGeometry x="1070" y="357.6" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-247" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Bilineaar attention map&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="836" y="492" width="210" height="40" as="geometry" />
+          <mxGeometry x="836.91" y="450" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-248" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="280" y="412.65" width="320" height="190" as="geometry" />
@@ -541,6 +541,9 @@
               <mxPoint x="1073" y="541" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JHrWPrDkKtPrGtXIpK2l-256" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
