@@ -965,8 +965,8 @@
             <mxPoint x="303.81999999999994" y="502.93000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JHrWPrDkKtPrGtXIpK2l-383" value="&lt;font color=&quot;#ffffff&quot;&gt;conv module&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="358.75" y="574" width="76.5" height="20" as="geometry" />
+        <mxCell id="JHrWPrDkKtPrGtXIpK2l-383" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;conv module&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="356.75" y="570" width="76.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
