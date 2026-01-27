@@ -551,7 +551,7 @@
             <mxPoint x="1300" y="407" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JHrWPrDkKtPrGtXIpK2l-260" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="1">
+        <mxCell id="JHrWPrDkKtPrGtXIpK2l-260" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#003300;" vertex="1" parent="1">
           <mxGeometry x="1302" y="280.65" width="140" height="239.35" as="geometry" />
         </mxCell>
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-261" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Fully Connencted Layer&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
