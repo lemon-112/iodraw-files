@@ -587,13 +587,13 @@
             <mxPoint x="1410" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JHrWPrDkKtPrGtXIpK2l-278" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="JHrWPrDkKtPrGtXIpK2l-278" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1360" y="440" as="sourcePoint" />
             <mxPoint x="1390" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JHrWPrDkKtPrGtXIpK2l-279" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#FFFFFF;" edge="1" parent="1" source="JHrWPrDkKtPrGtXIpK2l-269">
+        <mxCell id="JHrWPrDkKtPrGtXIpK2l-279" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="1" source="JHrWPrDkKtPrGtXIpK2l-269">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1370" y="450" as="sourcePoint" />
             <mxPoint x="1390" y="395" as="targetPoint" />
