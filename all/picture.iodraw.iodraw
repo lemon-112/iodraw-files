@@ -481,6 +481,9 @@
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-246" value="&lt;font color=&quot;#ffffff&quot;&gt;Bilinear pooling&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1070" y="445.6" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JHrWPrDkKtPrGtXIpK2l-247" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Encoding&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="870" y="610" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
