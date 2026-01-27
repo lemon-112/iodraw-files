@@ -36,8 +36,8 @@
         </mxCell>
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FFFFFF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="590" as="sourcePoint" />
-            <mxPoint x="110" y="630" as="targetPoint" />
+            <mxPoint x="100" y="620" as="sourcePoint" />
+            <mxPoint x="100" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-14" value="RDKit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
