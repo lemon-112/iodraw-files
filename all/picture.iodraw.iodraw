@@ -1265,8 +1265,11 @@
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-468" value="&lt;font color=&quot;#ffffff&quot;&gt;Bilinear attention map&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="891" y="445.65" width="122" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JHrWPrDkKtPrGtXIpK2l-469" value="&lt;font style=&quot;background-color: rgb(0, 0, 0);&quot; color=&quot;#ffffff&quot;&gt;GNN&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="280" width="60" height="30" as="geometry" />
+        <mxCell id="JHrWPrDkKtPrGtXIpK2l-469" value="&lt;font style=&quot;background-color: rgb(0, 0, 0);&quot; color=&quot;#ffffff&quot;&gt;GNN extractor&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="421.29" y="155" width="78.71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JHrWPrDkKtPrGtXIpK2l-470" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#001933;" vertex="1" parent="1">
+          <mxGeometry x="290" y="180" width="360" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
