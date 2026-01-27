@@ -25,9 +25,6 @@
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-3" value="RDKit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="170" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JHrWPrDkKtPrGtXIpK2l-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JHrWPrDkKtPrGtXIpK2l-10" target="JHrWPrDkKtPrGtXIpK2l-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="60" y="450" width="120" height="110" as="geometry" />
         </mxCell>
@@ -39,8 +36,8 @@
         </mxCell>
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FFFFFF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="119" y="620" as="sourcePoint" />
-            <mxPoint x="119" y="570" as="targetPoint" />
+            <mxPoint x="120" y="630" as="sourcePoint" />
+            <mxPoint x="120" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-14" value="RDKit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
