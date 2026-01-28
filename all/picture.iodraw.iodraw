@@ -535,7 +535,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JHrWPrDkKtPrGtXIpK2l-255" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFFFF;" parent="1" target="JHrWPrDkKtPrGtXIpK2l-246" edge="1">
+        <mxCell id="JHrWPrDkKtPrGtXIpK2l-255" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" target="JHrWPrDkKtPrGtXIpK2l-246" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="540" as="sourcePoint" />
             <mxPoint x="1138" y="653" as="targetPoint" />
@@ -1190,7 +1190,7 @@
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-467" value="&lt;font style=&quot;font-size: 6px;&quot; color=&quot;#ffffff&quot;&gt;virtual node&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="511" y="188.01" width="38" height="14.93" as="geometry" />
         </mxCell>
-        <mxCell id="JHrWPrDkKtPrGtXIpK2l-469" value="&lt;font style=&quot;background-color: rgb(0, 0, 0); font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;GNN extractor&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="JHrWPrDkKtPrGtXIpK2l-469" value="&lt;font style=&quot;background-color: rgb(0, 0, 0); font-size: 18px;&quot;&gt;GNN extractor&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="400.65000000000003" y="150.86" width="118.71" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-471" value="&lt;font style=&quot;background-color: rgb(0, 0, 0); font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;CNN_1d&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;background-color: rgb(0, 0, 0);&quot; color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" parent="1" vertex="1">
