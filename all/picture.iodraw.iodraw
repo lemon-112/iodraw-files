@@ -525,7 +525,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JHrWPrDkKtPrGtXIpK2l-254" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.996;exitY=0.368;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="JHrWPrDkKtPrGtXIpK2l-25" target="JHrWPrDkKtPrGtXIpK2l-245" edge="1">
+        <mxCell id="JHrWPrDkKtPrGtXIpK2l-254" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.996;exitY=0.368;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FFFFFF;" parent="1" source="JHrWPrDkKtPrGtXIpK2l-25" target="JHrWPrDkKtPrGtXIpK2l-245" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="260" as="sourcePoint" />
             <mxPoint x="1079" y="252" as="targetPoint" />
