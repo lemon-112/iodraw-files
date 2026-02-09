@@ -1203,8 +1203,8 @@
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-471" value="&lt;font style=&quot;font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;CNN_1d&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="518" y="775" width="92" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NgvfFra5BdjVe8J6Ex32-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="360" width="60" height="30" as="geometry" />
+        <mxCell id="NgvfFra5BdjVe8J6Ex32-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;bilinear attention&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="241" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
